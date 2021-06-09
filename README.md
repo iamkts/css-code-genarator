@@ -1,4 +1,5 @@
 # css-code-genarator
+# this is usefull for you
 [CSS GRADIENT](https://html-css-js.com/css/generator/gradient/),
 [CSS BOX TRANSFORM](https://html-css-js.com/css/generator/transform/),
 [CSS TEXT SHADOW](https://html-css-js.com/css/generator/text-shadow/),
